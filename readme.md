@@ -1,5 +1,5 @@
-## First game made in unity by three friends to get good mark for a game dev classes in university.
-# Concept:
+# First game made in unity by three friends to get good mark for a game dev classes in university.
+## Concept:
 You are locked up in university building and have to escape.
 
 
